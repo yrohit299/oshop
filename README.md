@@ -1,2 +1,0 @@
-# oshop
-Angular project demo
